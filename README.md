@@ -13,11 +13,11 @@
 
 ## Sobre mí
 
-- <img src="https://api.iconify.design/noto/graduation-cap.svg" width="20" height="20"/> Actualmente **estudiando** y creciendo como desarrollador
-- <img src="https://api.iconify.design/noto/briefcase.svg" width="20" height="20"/> Trabajo en **proyectos personalizados** de principio a fin
-- <img src="https://api.iconify.design/noto/rocket.svg" width="20" height="20"/> Me apasiona construir soluciones tanto en **frontend como backend**
-- <img src="https://api.iconify.design/noto/high-voltage.svg" width="20" height="20"/> Fan del anime y la cultura geek
-- <img src="https://api.iconify.design/noto/envelope.svg" width="20" height="20"/> Contacto: **garciapinachogael@gmail.com**
+- Actualmente **estudiando** y creciendo como desarrollador
+- Trabajo en **proyectos personalizados** de principio a fin
+- Me apasiona construir soluciones tanto en **frontend como backend**
+- Fan del anime y la cultura geek
+- Contacto: **garciapinachogael@gmail.com**
 
 <br/><br/><br/>
 
@@ -59,7 +59,6 @@
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GarciaGael27&show_icons=true&theme=tokyonight&locale=es&border_color=00d4ff" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarciaGael27&layout=compact&theme=tokyonight&locale=es&border_color=00d4ff" width="48%" />
 </p>
 
