@@ -84,7 +84,7 @@
   &nbsp;
 
   <!-- Reemplaza TU_USUARIO_LINKEDIN con tu usuario de LinkedIn -->
-  <a href="www.linkedin.com/in/gael-eduardo-garcía-pinacho" target="_blank">
+  <a href="https://www.linkedin.com/in/gael-eduardo-garc%C3%ADa-pinacho/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/>
   </a>
   &nbsp;
