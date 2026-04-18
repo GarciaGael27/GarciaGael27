@@ -78,19 +78,19 @@
 <p align="left">
 
   <!-- Reemplaza TU_USUARIO_GITHUB con tu usuario -->
-  <a href="https://github.com/TU_USUARIO_GITHUB" target="_blank">
+  <a href="https://github.com/GarciaGael27" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
   </a>
   &nbsp;
 
   <!-- Reemplaza TU_USUARIO_LINKEDIN con tu usuario de LinkedIn -->
-  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/gael-eduardo-garcía-pinacho" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/>
   </a>
   &nbsp;
 
   <!-- Reemplaza TU_USUARIO_INSTAGRAM con tu usuario de Instagram -->
-  <a href="https://instagram.com/TU_USUARIO_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/gael._.gap/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"/>
   </a>
   &nbsp;
