@@ -8,8 +8,10 @@
 
 <br/>
 
-<!-- GIF ANIME + SOBRE MI -->
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- GIF  + SOBRE MI -->
+<div align="center">
+  <img align="center" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
 
 ## Sobre mí
 
