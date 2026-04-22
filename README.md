@@ -20,6 +20,7 @@
 - Me apasiona construir soluciones tanto en **frontend como backend**
 - Fan del anime y la cultura geek
 - Contacto: **garciapinachogael@gmail.com**
+- Mi portfolio: https://portfolio-gael.vercel.app/
 
 <br/><br/><br/>
 
